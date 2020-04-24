@@ -8,7 +8,7 @@ function off() {
 }
 
 function sendMail() {
-	var link = "mailto:mail@luftr.de?subject=Hey, I just visited your Webpage!";
+	var link = "mailto:luft.robert@outlook.de?subject=Hey, I just visited your Webpage!";
 	window.location.href = link;
 }
 
